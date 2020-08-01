@@ -42,10 +42,7 @@ p{
 .skills{
       display: flex;
       align-items: center;
-}
-
-.skills i{
-      height: 50px;
+      font-size: 40px;
 }
 
 .skills img{
