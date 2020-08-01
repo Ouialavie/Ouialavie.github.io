@@ -32,5 +32,8 @@ p{
     flex-direction: column;
     background-color: #222831;
     color: white;
-    padding-top: 100px;
 }
+
+.aboutme h2 {
+    margin-top: 100px;
+  }
