@@ -38,3 +38,15 @@ p{
     margin-top: 100px;
     margin-bottom: 40px;
   }
+
+  .skills{
+      display: flex;
+      align-items: center;
+  }
+
+  .skills i{
+      height: 50px;
+  }
+  .skills img{
+    height: 50px;
+}
