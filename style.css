@@ -37,16 +37,17 @@ p{
 .aboutme h2 {
     margin-top: 100px;
     margin-bottom: 40px;
-  }
+}
 
-  .skills{
+.skills{
       display: flex;
       align-items: center;
-  }
+}
 
-  .skills i{
+.skills i{
       height: 50px;
-  }
-  .skills img{
+}
+
+.skills img{
     height: 50px;
 }
