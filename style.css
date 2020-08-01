@@ -20,7 +20,9 @@ img {
     border-radius: 50%;
 }
 p{
-    font-size: 14px;
+    font-size: 18px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 .aboutme{
     font-family: 'Varela Round', sans-serif;
@@ -30,4 +32,5 @@ p{
     flex-direction: column;
     background-color: #222831;
     color: white;
+    margin-top: 100px;
 }
