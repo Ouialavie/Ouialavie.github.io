@@ -15,7 +15,7 @@
 
 }
 
-img {
+.presentation img {
     width: 120px;
     border-radius: 50%;
 }
@@ -36,4 +36,5 @@ p{
 
 .aboutme h2 {
     margin-top: 100px;
+    margin-bottom: 40px;
   }
