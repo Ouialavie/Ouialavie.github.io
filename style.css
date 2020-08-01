@@ -11,11 +11,20 @@
     height: 600px;
     display: flex;
     flex-direction: column;
+    align-items: center;
 
 }
 
-img{
-    width: 100px;
+img {
+    width: 120px;
     border-radius: 50%;
 }
 
+.aboutme{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #222831;
+}
