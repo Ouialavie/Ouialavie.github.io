@@ -10,10 +10,9 @@
     color: white;
     height: 600px;
 
-
 }
 
-.avatar {
-    width: 40px;
+.img{
+    width: 60px;
     border-radius: 50%;
-  }
+}
