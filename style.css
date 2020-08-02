@@ -46,6 +46,7 @@ p{
     justify-content: space-evenly;
     background-color: #222831;
     flex-direction: column;
+    color: white;
 }
 
 .skills img{
@@ -61,5 +62,6 @@ h2{
     width: 100%;
     display: flex;
     justify-content: space-around;
+    padding-top: 15px;
 
 }
