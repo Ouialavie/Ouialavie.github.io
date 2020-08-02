@@ -34,6 +34,9 @@ p{
     color: white;
 }
 
+.aboutme img{
+    height: 80px;
+}
 .aboutme h2 {
     margin-top: 100px;
     margin-bottom: 40px;
