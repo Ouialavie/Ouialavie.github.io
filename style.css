@@ -49,8 +49,16 @@ p{
 
 .skills img{
     height: 55px;
+    padding-top: 5px;
 }
 
 h2{
     text-align: center;
+}
+
+.logos{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
 }
