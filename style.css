@@ -47,11 +47,13 @@ p{
     background-color: #222831;
     flex-direction: column;
     color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .skills img{
     height: 80px;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 h2{
