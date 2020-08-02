@@ -24,6 +24,13 @@ p{
     padding-left: 80px;
     padding-right: 80px;
 }
+
+.sociallink{
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
 .aboutme{
     font-family: 'Varela Round', sans-serif;
     font-size: 50px;
