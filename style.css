@@ -42,10 +42,15 @@ p{
 .skills{
     display: flex;
     align-items: center;
-    font-size: 40px;
+    font-size: 63px;
     justify-content: space-evenly;
+    background-color: #222831;
 }
 
 .skills img{
-    height: 50px;
+    height: 55px;
+}
+
+h2{
+    text-align: center;
 }
