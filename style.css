@@ -45,6 +45,7 @@ p{
     font-size: 63px;
     justify-content: space-evenly;
     background-color: #222831;
+    flex-direction: column;
 }
 
 .skills img{
