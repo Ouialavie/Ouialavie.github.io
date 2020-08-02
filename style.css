@@ -43,6 +43,7 @@ p{
     display: flex;
     align-items: center;
     font-size: 40px;
+    justify-content: space-evenly;
 }
 
 .skills img{
