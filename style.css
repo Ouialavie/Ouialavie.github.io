@@ -49,6 +49,11 @@ p{
 .lewagon{
     height: 80px;
 }
+
+.lewagon:hover{
+    height: 90px;
+    transition: 0.3s;
+}
 .aboutme h2 {
     margin-top: 100px;
     margin-bottom: 40px;
