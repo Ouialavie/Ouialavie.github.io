@@ -53,6 +53,7 @@ p{
 .lewagon:hover{
     height: 90px;
     transition: 0.3s;
+    margin: -5px;
 }
 .aboutme h2 {
     margin-top: 100px;
@@ -85,6 +86,7 @@ h2{
     display: flex;
     justify-content: space-around;
     padding-top: 15px;
+    padding-bottom: 20px;
 
 }
 .logos2{
