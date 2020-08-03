@@ -31,6 +31,11 @@ p{
     justify-content: space-around;
     padding-top: 50px;
 }
+
+.sociallink:hover{
+    transition: 0.5s;
+    color: gray;
+}
 .aboutme{
     font-family: 'Varela Round', sans-serif;
     font-size: 50px;
