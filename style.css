@@ -124,6 +124,7 @@ h2{
 
 .Dtrader:hover{
     height: 130px;
-    margin-right: -12px;
+    margin-right: -6px;
+    margin-left: -6px;
     transition: 0.3s;
 }
