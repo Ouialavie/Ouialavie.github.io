@@ -103,12 +103,13 @@ h2{
 }
 
 .Dtrader{
+    height: 120px;
     padding-left: 5px;
     margin-top: 15px;
 }
 
 .Dtrader:hover{
-    height: 90px;
+    height: 130px;
     margin: 3px;
     transition: 0.3s;
 }
