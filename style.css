@@ -15,6 +15,9 @@
     text-decoration: none;
 
 }
+.presentation a{
+    color: white;
+}
 
 .presentation img {
     width: 120px;
