@@ -109,18 +109,14 @@ h2{
 }
 
 
-.titreprojet{
-    display: flex;
-    flex-direction: column;
-}
 .Dtrader{
     height: 120px;
-    padding-left: 5px;
+    padding-left: 50px;
     margin-top: 15px;
 }
 
 .Dtrader:hover{
     height: 130px;
-    margin: 3px;
+    margin-right: -12px;
     transition: 0.3s;
 }
