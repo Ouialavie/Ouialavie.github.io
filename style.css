@@ -102,17 +102,24 @@ h2{
     padding-left: 40px ;
 }
 .project{
+   display: flex; 
+   flex-direction: column;
+   background-color: #222831;
+   color: white;
+   font-family: 'Varela Round', sans-serif;
+
+}
+.projectcard{
     display: flex;
-    background-color: #222831;
-    color: white;
-    font-family: 'Varela Round', sans-serif;
+    margin-top: 40px;
+    
 }
 
 
 .Dtrader{
     height: 120px;
     padding-left: 50px;
-    margin-top: 15px;
+    margin-top: 50px;
 }
 
 .Dtrader:hover{
