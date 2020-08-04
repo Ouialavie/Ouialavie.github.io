@@ -101,7 +101,18 @@ h2{
     padding-right: 40px;
     padding-left: 40px ;
 }
+.project{
+    display: flex;
+    background-color: #222831;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
 
+
+.titreprojet{
+    display: flex;
+    flex-direction: column;
+}
 .Dtrader{
     height: 120px;
     padding-left: 5px;
