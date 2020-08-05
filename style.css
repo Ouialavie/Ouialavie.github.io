@@ -36,7 +36,7 @@ p{
     padding-top: 50px;
 }
 
-.sociallink i:hover{
+.sociallink a:hover{
     transition: 0.5s;
     color: gray;
 }
